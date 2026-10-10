@@ -1,0 +1,6 @@
+Knocker.exe
+*.pdb
+knocker.ini
+icon.ico
+*.mp3
+.vs/
